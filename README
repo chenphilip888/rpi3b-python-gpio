@@ -61,7 +61,7 @@ git clone https://github.com/doceme/py-spidev.git
 cd ~/py-spidev
 sudo python setup.py install
 sudo python3 setup.py install
-
+cd ~/
 git clone https://github.com/chenphilip888/rpi3b-python-gpio.git
 cd ~/rpi3b-python-gpio
 chmod 755 gpio_test.py
